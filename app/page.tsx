@@ -268,7 +268,7 @@ export default function Portfolio() {
                   <h3 className="text-lg font-mono text-cyan-400">{"// BIO"}</h3>
                 </div>
                 <p className="text-gray-300 leading-relaxed">
-                  Saya <span className="text-cyan-400 font-semibold">Erlangga Mahardika</span> atau
+                  Saya <span className="text-cyan-400 font-semibold">Rasya Erlangga Mahardika</span> atau
                   biasa dipanggil <span className="text-cyan-400 font-semibold">Rasya</span>. Memiliki
                   minat besar pada desain, administrasi, bidang IT, dan pemrograman. Terbiasa belajar
                   secara mandiri maupun bekerja dalam tim.
